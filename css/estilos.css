@@ -1,0 +1,60 @@
+body{
+ background-color: darkblue;
+}
+.cabezera{
+    background-color: antiquewhite;
+    
+}
+.navegador .nav-link{
+    color: #fff;
+    background: black;
+    border-radius: 5px;
+}
+.img1{    
+    height: 18rem;
+    width: 50rem;    
+    }
+.img4{
+    height: 18rem;
+    width:50rem; 
+}
+.img3{
+    height: 18rem;
+    width: 30rem;
+}
+.img2{
+    height: 18rem;
+    width: 50rem; 
+}
+.img5{
+    height: 18rem;
+    width: 50rem; 
+}
+.usuario {
+    padding: .5rem;
+    font-size: 35px;
+    background: transparent;
+    border: none;        
+}
+.contenido{
+    margin-top: 1rem;
+    background-color: burlywood;
+}
+.redes a{
+    font-size: 1.5rem;
+}
+.yt{
+    color: red;
+}
+.fb{
+    color: darkblue;
+}
+.insta{
+    color: saddlebrown;
+}
+.twit{
+    color: aqua;
+}
+.navegador{
+    margin-top: 1rem;
+}
